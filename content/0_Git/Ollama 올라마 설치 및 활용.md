@@ -22,6 +22,7 @@
 	ollama list
 ```
 
+
 2. MAC 설치
 ```
 	# MAC에
