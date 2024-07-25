@@ -21,10 +21,7 @@
 	# 사용중인 LLM 모델 나열
 	ollama list
 ```
-올라마 key
-```
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGizpfm6tf2VuVCzaZU25nBbXCQlROwd5tXkMlKp7PVI
-```
+
 2. MAC 설치
 ```
 	# MAC에
